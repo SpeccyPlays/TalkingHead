@@ -5,4 +5,4 @@ The server side runs as a soft AP and receives audio data via TCP to control a s
 
 Client side takes the audio samples then sends them to the server
 
-https://www.youtube.com/watch?v=28mE192oIPs - example video
+https://www.youtube.com/watch?v=eLGLVHzEDmc - example video
