@@ -1,5 +1,5 @@
 # TalkingHead
-Using a max4466 mic to control a servo via TCP
+Using a max4466 mic to control a servo via WiFi
 
 The server side runs as a soft AP and receives audio data via TCP to control a servo 'mouth' to make it look like it's talking
 
